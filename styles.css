@@ -1,0 +1,85 @@
+body {
+    background-color: rgb(40, 44, 52);
+    color: #fff;
+    font-family: 'IBM Plex Sans', 'Helvetica';
+}
+
+h1 {
+    margin: 100px 0 8px 0;
+    font-size: 3rem;
+}
+
+a {
+    color: #5596E6;
+}
+
+.login {
+    margin: 24vh auto 0 auto;
+    width: 200px;
+}
+
+.welcome {
+    margin: 24vh auto 0 auto;
+    width: 100%;
+    text-align: center;
+}
+
+.text {
+    margin: 50px auto 0 auto;
+    width: 320px;
+
+    font-size: 2rem;
+    font-weight: 100;
+}
+
+.sub {
+    margin: 150px 0 0 0;
+    
+    font-size: 1.2rem;
+    font-weight: 100;
+}
+
+#bar {
+    margin: 0 0 60px 0;
+    width: 220px;
+    height: 4px;
+
+    background-color: #fff;
+}
+
+label, button {
+    display: block;
+}
+
+label {
+    margin: 0 0 5px 0;
+
+    font-size: 20px;
+    font-weight: 100;
+}
+
+button {
+    margin: 20px 0 0 0;
+    width: 100px;
+    height: 30px;
+    background-color: #fff;
+    border: none;
+
+    font-size: 20px;
+    font-weight: 400;
+
+
+    cursor: pointer;
+}
+
+input {
+    margin: 0 0 20px 0;
+    padding: 0 10px;
+    width: 200px;
+    height: 32px;
+
+    background-color: #939599;
+    border: none;
+
+    font-size: 20px;
+}
